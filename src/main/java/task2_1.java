@@ -1,7 +1,6 @@
 /**
  * Created by Oksana on 01.12.
  * @author Oksana
- * @see #switch
  */
 
 import java.util.Scanner;
