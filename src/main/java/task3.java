@@ -67,7 +67,7 @@ public class task3 {
                 for (i = 0; i < r; i++) {
                     if (textArray[i].length() > maxlen)
                     {maxlen = textArray[i].length();}
-                    i++;
+                    //System.out.println(i);
                 }
                 System.out.println("Максимальная длина строки в массиве: " + maxlen);
             }

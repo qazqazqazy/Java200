@@ -29,7 +29,7 @@ public class task2 {
                 System.out.println("Result is: " + (i * j));
                 break;
             case 4:
-                System.out.println("Result is: " + (i * j));
+                System.out.println("Result is: " + (i / j));
                 break;
             default:
                 System.out.println("Error: enter correct operation");;
