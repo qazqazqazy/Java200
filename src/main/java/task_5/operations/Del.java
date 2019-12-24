@@ -12,7 +12,7 @@ public class Del implements anyOperation {
 
     public Double cnt(Double a, Double b) {
         if(b==0)
-            throw new ArithmeticException("поделили на ноль");
+            throw new ArithmeticException("Поделили на ноль");
         return a/b;
     }
 }
