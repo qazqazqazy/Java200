@@ -43,6 +43,7 @@ public class Calculator {
                         scanner.close();
                         scanner1.close();
                         scanner2.close();
+                        System.out.println("Калькулятор закрыт");
                         break;
                     }
 
