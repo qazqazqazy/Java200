@@ -3,7 +3,7 @@ import java.io.*;
 
 public class cl {
 
-    public static void main(String[] args)throws Exception {
+    public static void main(String[] args) throws Exception {
 
         //передаёт слова из файла в отсортированный сет с удаленными дубликатами
         Scanner scanner = new Scanner(new File("files.txt"));
